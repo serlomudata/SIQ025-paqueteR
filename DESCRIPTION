@@ -1,0 +1,16 @@
+Package: opelem
+Title: Operaciones elementales
+Version: 0.0.1
+Authors@R: 
+    person(given = "Sergio",
+           family = "Lopez",
+           role = c("aut", "cre"),
+           email = "al399899@uji.es")
+Description: Este paquete realiza las opereaciones elementales:suma,
+             resta,multiplicacion y division.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+
