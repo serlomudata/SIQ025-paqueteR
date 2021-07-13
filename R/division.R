@@ -9,7 +9,9 @@
 #' @export
 #'
 #' @examples
-#' mult(5,0.5)
+#' div(5,0.5)
+#' div(3,2)
+#' div(1,0.0004)
 #' 
 #' @seealso \link{mult}
 div<- function(a,b){
