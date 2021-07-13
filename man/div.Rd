@@ -18,7 +18,9 @@ La division entre a y b
 Esta funcion devuelve la division entre dos numeros.
 }
 \examples{
-mult(5,0.5)
+div(5,0.5)
+div(3,2)
+div(1,0.0004)
 
 }
 \seealso{
